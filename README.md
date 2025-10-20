@@ -1,2 +1,2 @@
 # my-repo
-day 21
+day 1
